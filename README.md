@@ -1,3 +1,3 @@
 # Tutorial
-First project repository
+First project repository\n
 This is my first change!
